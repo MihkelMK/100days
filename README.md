@@ -3,3 +3,5 @@
   
 Päev 1 - ühendan repo ide'ga ja installin KDE connecti  
 Päev 2 - ühendasin KDE connecti ja õppisin vene keelt juurde
+Päev 3 - installisin ja konfigureerisin lutrist(ebaedukalt)
+Päev 4 - lõpetasin teaduskooli programmi
