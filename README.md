@@ -6,4 +6,5 @@ Päev 2 - ühendasin KDE connecti ja õppisin vene keelt juurde
 Päev 3 - installisin ja konfigureerisin lutrist(ebaedukalt)  
 Päev 4 - lõpetasin teaduskooli programmi  
 Päev 5 - lugesin teaduskooli materjali ja tegelesin proxmarkiga  
-Päev 6 - tegin teaduskooli programmi
+Päev 6 - tegin teaduskooli programmi  
+Päev 7 - tegin autokooli teste  
