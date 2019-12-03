@@ -8,3 +8,4 @@ Päev 4 - lõpetasin teaduskooli programmi
 Päev 5 - lugesin teaduskooli materjali ja tegelesin proxmarkiga  
 Päev 6 - tegin teaduskooli programmi  
 Päev 7 - tegin autokooli teste  
+Päev 8 - uurisin smtp ja pythoni kohta
