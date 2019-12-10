@@ -12,3 +12,7 @@ Päev 8 - uurisin smtp ja pythoni kohta
 Päev 9 - õppisin veel vene keelt ja tegin programmi  
 Päev 10 - tegelesin veidi sama programmiga ja tegin disaini  
 Päev 11 - õpetasin Marile programmeerimist  
+Päev 12 - ei mäleta  
+Päev 13 - tegin edasi email boti  
+Päev 14 - parandasin Mari elektroonikat  
+Päev 15 - õpetasin Kasterpalule rekursiooni ja togisin linuxis uut terminali ja milkdropi  
