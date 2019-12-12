@@ -16,3 +16,5 @@ Päev 12 - ei mäleta
 Päev 13 - tegin edasi email boti  
 Päev 14 - parandasin Mari elektroonikat  
 Päev 15 - õpetasin Kasterpalule rekursiooni ja togisin linuxis uut terminali ja milkdropi  
+Päev 16 - uurisin LED-ribade controllerite kohta  
+Päev 17 - kirjutasin programmi  
