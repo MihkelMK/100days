@@ -18,3 +18,7 @@ Päev 14 - parandasin Mari elektroonikat
 Päev 15 - õpetasin Kasterpalule rekursiooni ja togisin linuxis uut terminali ja milkdropi  
 Päev 16 - uurisin LED-ribade controllerite kohta  
 Päev 17 - kirjutasin programmi  
+Päev 18 - -offline-  
+Päev 19 - -offline-  
+Päev 20 - -offline-  
+Päev 21 - muutsin mängu settinguid läbi minu ja paigaldasid Firefoxi uue userchromei  
