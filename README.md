@@ -22,3 +22,5 @@ Päev 18 - -offline-
 Päev 19 - -offline-  
 Päev 20 - -offline-  
 Päev 21 - muutsin mängu settinguid läbi minu ja paigaldasid Firefoxi uue userchromei  
+Otsustasin mitte lugeda vaheaega, sest ei teinud eriti paju väljakutse jaoks.  
+Päev 22 - Kirjutasin õele email boti  
